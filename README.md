@@ -1,4 +1,4 @@
-# Glia-enriched stem-cell 3D model of the human brain mimics the glial-immune neurodegenerative phenotypes of multiple sclerosis 
+# A glia-enriched stem-cell 3D model of the human brain mimics the glial-immune neurodegenerative phenotypes of multiple sclerosis 
 
 Francesca Fagiani1, Edoardo Pedrini1, Stefano Taverna1, Elena Brambilla2, Valentina Murtaj2,
 Paola Podini1, Francesca Ruffini2, Erica Butti1, Clarissa Braccia3, Annapaola Andolfo3, 
